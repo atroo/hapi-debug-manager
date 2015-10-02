@@ -1,6 +1,6 @@
 {
   "name": "hapi-debug-manager",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "this plugin helps you determine if a certain user is in a debugMode and if so, responds with a config object that lets you know what debug context the user is in",
   "main": "src/plugin.js",
   "scripts": {
@@ -17,7 +17,7 @@
   "author": "robert",
   "license": "ISC",
   "peerDependencies": {
-    "hapi": "^8.x.x"
+    "hapi": ">=8.x.x"
   },
   "repository": {
     "type": "git",
