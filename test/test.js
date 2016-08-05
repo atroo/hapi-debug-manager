@@ -11,7 +11,7 @@ beforeEach(function (done) {
     var options = {
         tag: 'debugTest',
         debugPassword: 'testPassword',
-        cookiePassword: 'test',
+        cookiePassword: 'cookiePasswordWithMoreThanThrityTwoCharacters',
         debugTags: {
             session: 'session'
         }
